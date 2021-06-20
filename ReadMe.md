@@ -7,3 +7,4 @@
 - s05 Bean Scope & Bean lifecycle
 - s06 实现一个IoC实例
 - s07 Spring 注解配置Bean
+- s08 Java Config 配置Bean
